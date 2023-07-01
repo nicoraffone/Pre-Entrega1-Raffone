@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: rgb(184, 184, 184);
+}
+
+h1{
+    margin-top: 15%;
+    background-color: rgb(208, 230, 10);
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+    text-decoration: double underline rgb(208, 230, 10);
+}
+
+img{
+    width: 400px;
+    border: 5px solid black;
+    border-radius: 3%;
+}
